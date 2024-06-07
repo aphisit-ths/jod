@@ -16,4 +16,3 @@ Technologies used in the project:
 -   Golang
 -   GIn
 -   Gorm
-# jod
