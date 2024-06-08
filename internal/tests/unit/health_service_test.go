@@ -2,9 +2,9 @@ package healthsrv_test
 
 import (
 	"errors"
+	"jod/internal/adapters/repositories/healthrepo"
 	"jod/internal/core/domain"
 	"jod/internal/core/services/healthsrv"
-	"jod/internal/repositories/healthrepo"
 	"testing"
 
 	"github.com/stretchr/testify/assert"

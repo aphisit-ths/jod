@@ -1,8 +1,8 @@
 package app
 
 import (
+	"jod/internal/adapters/repositories/healthrepo"
 	"jod/internal/core/services/healthsrv"
-	"jod/internal/repositories/healthrepo"
 )
 
 func Run() {
